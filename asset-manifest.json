@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6685b497.css",
-    "main.js": "/static/js/main.816a68d9.js",
+    "main.css": "/static/css/main.4e574cab.css",
+    "main.js": "/static/js/main.29db12f7.js",
+    "static/media/fireworks-frame-cutted.png": "/static/media/fireworks-frame-cutted.a968aa832bc40829bf02.png",
+    "static/media/MonteCarlo.ttf": "/static/media/MonteCarlo.6a66bbaa0cb0dc5f042d.ttf",
+    "static/media/LobsterTwo.ttf": "/static/media/LobsterTwo.c76900a6f5c1f87ce3aa.ttf",
+    "static/media/flowers-yellow.jpg": "/static/media/flowers-yellow.3d9d73972e919e9ab3ad.jpg",
     "index.html": "/index.html",
-    "main.6685b497.css.map": "/static/css/main.6685b497.css.map",
-    "main.816a68d9.js.map": "/static/js/main.816a68d9.js.map"
+    "main.4e574cab.css.map": "/static/css/main.4e574cab.css.map",
+    "main.29db12f7.js.map": "/static/js/main.29db12f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6685b497.css",
-    "static/js/main.816a68d9.js"
+    "static/css/main.4e574cab.css",
+    "static/js/main.29db12f7.js"
   ]
 }
